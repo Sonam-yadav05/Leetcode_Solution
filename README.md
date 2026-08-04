@@ -30,4 +30,20 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+## Two Pointers
+|  |
+| ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+## String
+|  |
+| ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+## Sorting
+|  |
+| ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 <!---LeetCode Topics End-->
