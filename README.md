@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0724-find-pivot-index](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0724-find-pivot-index) |
@@ -74,6 +75,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -84,4 +86,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
