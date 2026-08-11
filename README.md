@@ -43,6 +43,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0682-baseball-game](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
@@ -76,6 +77,7 @@
 | [0020-valid-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0682-baseball-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
