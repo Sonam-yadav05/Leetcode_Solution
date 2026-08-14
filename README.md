@@ -51,6 +51,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0682-baseball-game](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1019-next-greater-node-in-linked-list) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
