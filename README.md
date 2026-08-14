@@ -45,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
@@ -111,6 +112,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sliding Window
