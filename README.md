@@ -56,6 +56,7 @@
 | [0682-baseball-game](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1019-next-greater-node-in-linked-list) |
@@ -119,6 +120,7 @@
 | [0162-find-peak-element](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
