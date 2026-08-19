@@ -94,6 +94,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
@@ -113,6 +114,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
@@ -167,5 +169,6 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
