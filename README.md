@@ -63,6 +63,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2574-left-and-right-sum-differences) |
@@ -128,6 +129,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sliding Window
 |  |
