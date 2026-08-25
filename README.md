@@ -62,6 +62,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1019-next-greater-node-in-linked-list) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -133,6 +134,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sliding Window
@@ -225,4 +227,5 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0498-diagonal-traverse) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
