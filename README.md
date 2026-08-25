@@ -51,6 +51,7 @@
 | [0162-find-peak-element](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
+| [0498-diagonal-traverse](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0682-baseball-game](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0682-baseball-game) |
@@ -152,6 +153,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0682-baseball-game) |
 ## Bucket Sort
 |  |
@@ -219,4 +221,8 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
