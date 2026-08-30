@@ -190,6 +190,7 @@
 | [0101-symmetric-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0226-invert-binary-tree) |
@@ -201,6 +202,7 @@
 | [0101-symmetric-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0226-invert-binary-tree) |
@@ -211,6 +213,7 @@
 | [0101-symmetric-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -220,6 +223,7 @@
 | [0101-symmetric-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0226-invert-binary-tree) |
