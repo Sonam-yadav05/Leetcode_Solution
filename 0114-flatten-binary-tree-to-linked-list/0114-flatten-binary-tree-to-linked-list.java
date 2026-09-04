@@ -14,23 +14,35 @@
  * }
  */
 class Solution {
-    public void flatten(TreeNode root) {
-        List<TreeNode> ans = new ArrayList<>();
-        preorder(root,ans);
-        for(int i=0;i<ans.size()-1;i++){
-            ans.get(i).right=ans.get(i+1);
-            ans.get(i).left=null;
-        }
-        if(ans.size()==0) return;
-        TreeNode last = ans.get(ans.size()-1);
-        last.left=null;
-        last.right=null;
-        
-    }
-    public void preorder(TreeNode root,List<TreeNode> ans){
+    public void flatten(TreeNode root){
         if(root==null) return;
-        ans.add(root);
-        preorder(root.left,ans);
-        preorder(root.right,ans);
+        TreeNode lst = root.left;
+        TreeNode rst = root.right;
+        root.left=null;
+        flatten(lst);
+        flatten(rst);
+        root.right=lst;
+        TreeNode last = root;
+        while(last.right!=null) last = last.right;
+        last.right=rst;
     }
+    // public void flatten(TreeNode root) {
+    //     List<TreeNode> ans = new ArrayList<>();
+    //     preorder(root,ans);
+    //     for(int i=0;i<ans.size()-1;i++){
+    //         ans.get(i).right=ans.get(i+1);
+    //         ans.get(i).left=null;
+    //     }
+    //     if(ans.size()==0) return;
+    //     TreeNode last = ans.get(ans.size()-1);
+    //     last.left=null;
+    //     last.right=null;
+        
+    // }
+    // public void preorder(TreeNode root,List<TreeNode> ans){
+    //     if(root==null) return;
+    //     ans.add(root);
+    //     preorder(root.left,ans);
+    //     preorder(root.right,ans);
+    // }
 }
