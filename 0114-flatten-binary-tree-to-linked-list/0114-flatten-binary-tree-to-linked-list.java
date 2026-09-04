@@ -21,6 +21,10 @@ class Solution {
             ans.get(i).right=ans.get(i+1);
             ans.get(i).left=null;
         }
+        if(ans.size()==0) return;
+        TreeNode last = ans.get(ans.size()-1);
+        last.left=null;
+        last.right=null;
         
     }
     public void preorder(TreeNode root,List<TreeNode> ans){
