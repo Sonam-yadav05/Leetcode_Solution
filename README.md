@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -49,6 +50,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -92,6 +94,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
 ## Floyd's Cycle Finding Algorithm
@@ -200,6 +203,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -253,6 +257,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
