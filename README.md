@@ -223,6 +223,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -323,4 +326,5 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
