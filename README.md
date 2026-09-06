@@ -222,6 +222,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -282,6 +283,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -317,4 +319,8 @@
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
