@@ -84,12 +84,14 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0541-reverse-string-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0541-reverse-string-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
 | ------- |
