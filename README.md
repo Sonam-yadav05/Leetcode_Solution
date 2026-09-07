@@ -92,6 +92,7 @@
 | [0013-roman-to-integer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0541-reverse-string-ii) |
 ## Sorting
@@ -106,6 +107,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -189,6 +191,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
 ## Number Theory
 |  |
@@ -203,6 +206,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
 |  |
