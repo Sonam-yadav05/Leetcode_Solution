@@ -10,19 +10,19 @@ class Solution {
         return str;        
     }
     public static  String reverse(String s,int i,int j){
-        String str = "";
+        StringBuilder str = new StringBuilder();
         if(j>s.length()-1) j=s.length()-1;
         for(int k=j;k>=i;k--){
-            str += s.charAt(k);
+            str.append(s.charAt(k));
         }
-        return str;
+        return str.toString();
     }
     public static String same(String s,int i,int j){
-        String str = "";
+        StringBuilder str = new StringBuilder();
         if(j>s.length()-1) j=s.length()-1;
         for(int k=i;k<=j;k++){
-            str += s.charAt(k);
+            str.append(s.charAt(k));
         }
-        return str;
+        return str.toString();
     }
 }
