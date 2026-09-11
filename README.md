@@ -247,6 +247,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
@@ -277,6 +278,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -325,6 +327,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
@@ -382,4 +385,12 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
