@@ -13,12 +13,10 @@ class Solution {
 
         while (j < n) {
             int k = i;
-            boolean duplicate = false;
 
             while (k < j) {
                 if (s.charAt(k) == s.charAt(j)) {
                     i = k + 1;
-                    duplicate = true;
                     break;
                 }
                 k++;
