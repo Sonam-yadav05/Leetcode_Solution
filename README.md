@@ -77,6 +77,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1748-sum-of-unique-elements) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -117,6 +118,7 @@
 | [0383-ransom-note](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1748-sum-of-unique-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1748-sum-of-unique-elements) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -204,6 +206,7 @@
 | [0383-ransom-note](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1748-sum-of-unique-elements) |
 ## Number Theory
 |  |
 | ------- |
