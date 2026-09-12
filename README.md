@@ -98,12 +98,14 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0541-reverse-string-ii) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Sorting
 |  |
 | ------- |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1451-rearrange-words-in-a-sentence) |
 ## Hash Table
 |  |
 | ------- |
