@@ -98,6 +98,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0541-reverse-string-ii) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0383-ransom-note](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
