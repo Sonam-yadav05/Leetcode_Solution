@@ -82,6 +82,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2574-left-and-right-sum-differences) |
+| [3731-find-missing-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1451-rearrange-words-in-a-sentence) |
+| [3731-find-missing-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1748-sum-of-unique-elements) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [3731-find-missing-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/3731-find-missing-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
