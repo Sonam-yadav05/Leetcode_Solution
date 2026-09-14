@@ -33,6 +33,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -403,4 +404,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
