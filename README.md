@@ -19,6 +19,7 @@
 | [0002-add-two-numbers](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0445-add-two-numbers-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0342-power-of-four](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -417,6 +419,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
