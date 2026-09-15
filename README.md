@@ -18,6 +18,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0445-add-two-numbers-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -62,6 +63,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0498-diagonal-traverse](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0498-diagonal-traverse) |
@@ -108,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -120,6 +123,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -170,6 +174,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
@@ -411,6 +416,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
