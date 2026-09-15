@@ -19,6 +19,7 @@
 | [0002-add-two-numbers](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0445-add-two-numbers-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0445-add-two-numbers-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3870-count-commas-in-range](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/3870-count-commas-in-range) |
 ## Recursion
@@ -80,6 +81,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1748-sum-of-unique-elements) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2574-left-and-right-sum-differences) |
@@ -353,6 +355,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## DP on Trees
 |  |
 | ------- |
@@ -408,4 +411,13 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
