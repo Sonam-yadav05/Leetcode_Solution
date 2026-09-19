@@ -105,6 +105,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -115,6 +116,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
@@ -128,6 +130,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
