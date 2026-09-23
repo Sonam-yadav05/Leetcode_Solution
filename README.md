@@ -25,6 +25,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3870-count-commas-in-range](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/3870-count-commas-in-range) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Recursion
 |  |
 | ------- |
@@ -395,6 +396,7 @@
 | [0338-counting-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0338-counting-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Monotonic Queue
 |  |
 | ------- |
