@@ -93,6 +93,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/3731-find-missing-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1451-rearrange-words-in-a-sentence) |
 | [3731-find-missing-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/3731-find-missing-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -443,6 +446,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Memoization
 |  |
 | ------- |
