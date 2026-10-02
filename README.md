@@ -107,6 +107,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0383-ransom-note) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## DP on Trees
@@ -394,6 +397,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0338-counting-bits) |
