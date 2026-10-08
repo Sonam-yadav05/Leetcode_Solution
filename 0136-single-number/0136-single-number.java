@@ -1,23 +1,27 @@
 
 class Solution {
     public int singleNumber(int[] nums) {
-        int n = nums.length;
-        HashSet<Integer> set = new HashSet<>();
-        set.add(nums[0]);
-        for(int i=1;i<n;i++){
-            if(set.contains(nums[i])) set.remove(nums[i]);
-            else set.add(nums[i]);
-        }
-        int ans=0;
-        for(int ele : set){
-            ans = ele;
-        }
-        return ans;
+        // hashset
+        // int n = nums.length;
+        // HashSet<Integer> set = new HashSet<>();
+        // set.add(nums[0]);
+        // for(int i=1;i<n;i++){
+        //     if(set.contains(nums[i])) set.remove(nums[i]);
+        //     else set.add(nums[i]);
+        // }
+        // int ans=0;
+        // for(int ele : set){
+        //     ans = ele;
+        // }
+        // return ans;
         
 
-
-
-
+// Bit Manipulation
+            int ans =0;
+            for(int i=0;i<nums.length;i++){
+                ans = ans ^ nums[i];
+            }
+            return ans;
 
 
 
@@ -43,25 +47,7 @@ class Solution {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// iteration 
         // Arrays.sort(nums);
         // int n = nums.length;
         // int idx=-1;
