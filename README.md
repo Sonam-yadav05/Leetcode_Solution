@@ -8,6 +8,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0445-add-two-numbers-ii) |
@@ -135,6 +136,7 @@
 | [0013-roman-to-integer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
