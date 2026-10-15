@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0445-add-two-numbers-ii) |
+| [1486-xor-operation-in-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3870-count-commas-in-range](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/3870-count-commas-in-range) |
@@ -452,6 +453,7 @@
 | [0338-counting-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [0861-score-after-flipping-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0861-score-after-flipping-matrix) |
+| [1486-xor-operation-in-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
