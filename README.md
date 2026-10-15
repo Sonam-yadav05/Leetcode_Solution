@@ -71,6 +71,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0260-single-number-iii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -444,6 +445,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0342-power-of-four) |
