@@ -81,6 +81,7 @@
 | [0682-baseball-game](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0861-score-after-flipping-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -377,6 +378,7 @@
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0498-diagonal-traverse](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0498-diagonal-traverse) |
+| [0861-score-after-flipping-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0861-score-after-flipping-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
@@ -449,6 +451,7 @@
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0342-power-of-four) |
+| [0861-score-after-flipping-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0861-score-after-flipping-matrix) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -467,4 +470,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
