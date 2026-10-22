@@ -147,6 +147,7 @@
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1748-sum-of-unique-elements) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -294,6 +295,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -324,6 +326,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -340,6 +343,7 @@
 | [0226-invert-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -375,6 +379,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Matrix
