@@ -89,6 +89,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
@@ -129,6 +130,7 @@
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1051-height-checker) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1451-rearrange-words-in-a-sentence) |
 | [3731-find-missing-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/3731-find-missing-elements) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -240,6 +242,7 @@
 | [0383-ransom-note](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1748-sum-of-unique-elements) |
 ## Number Theory
 |  |
@@ -476,4 +479,8 @@
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0861-score-after-flipping-matrix) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
