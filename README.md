@@ -67,6 +67,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0138-copy-list-with-random-pointer) |
@@ -404,6 +406,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0498-diagonal-traverse](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0498-diagonal-traverse) |
 | [0861-score-after-flipping-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0861-score-after-flipping-matrix) |
