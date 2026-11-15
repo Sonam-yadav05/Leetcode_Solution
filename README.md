@@ -92,6 +92,7 @@
 | [0682-baseball-game](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0912-sort-an-array) |
@@ -447,6 +448,7 @@
 | [0198-house-robber](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/4050-minimum-days-to-score-exactly-n-points) |
