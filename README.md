@@ -72,6 +72,7 @@
 | [0035-search-insert-position](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -412,6 +413,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0498-diagonal-traverse](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0498-diagonal-traverse) |
 | [0861-score-after-flipping-matrix](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0861-score-after-flipping-matrix) |
@@ -446,6 +448,7 @@
 | [0022-generate-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0338-counting-bits) |
