@@ -20,6 +20,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0342-power-of-four) |
@@ -444,6 +445,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0338-counting-bits) |
@@ -498,6 +500,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sonam-yadav05/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
